@@ -1,4 +1,5 @@
 # Hells-Labyrinth
 
 Mobile arcade game implemented with Unity.
-The game can be downloaded from the Play Market: channel - NewDayNewLife, name - Hell's Labyrinth
+
+The game can be downloaded from the PlayMarket: channel - NewDayNewLife, name - Hell's Labyrinth
